@@ -28,9 +28,6 @@ navigation:
   - name: Blog
     id: 3a3ead16-47a0-44ae-9437-008ecdd785dc
     type: content
-  - name: The Roots Awaken
-    url: 'https://www.facebook.com/therootsawaken'
-    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/31e94d5d-e9f4-455f-80f0-aadd7ddef50d.jpg
 title: Voices of Amerikua
