@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-10-05T07:34:17.966Z'
+datePublished: '2016-10-05T07:49:12.235Z'
 sourcePath: _posts/2016-10-05-new-film-documents-real-life-avatar-story.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-05T07:34:17.474Z'
+dateModified: '2016-10-05T07:49:11.844Z'
 title: 'Receiving the Lakota Youth Runners. Standing Rock, North Dakota. '
 publisher: {}
 description: Blog
-starred: false
+starred: true
 url: new-film-documents-real-life-avatar-story/index.html
 _type: MediaObject
 
