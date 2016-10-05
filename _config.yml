@@ -1,19 +1,19 @@
-typography_spectrum: 0.5861313682980835
+layout_spectrum: 0.3165367131587118
+typography_spectrum: 0.5852756018284708
 color:
-  brandStrength: 0.8245624722912908
-  lightness: 0.8778670839965343
-  saturation: 0.9235306484624743
-  rhythmicContrast: 0.3602788813877851
+  brandStrength: 0.4569888550322503
+  lightness: 0.6091126501560211
+  saturation: 0.20489230751991272
+  rhythmicContrast: 0.14967030193656683
   brandColors:
-    - '#E7E8D1'
-    - '#D3CEAA'
-    - '#FBF7E4'
-    - '#424242'
-    - '#8E001C'
+    - '#962D3E'
+    - '#343642'
+    - '#979C9C'
+    - '#F2EBC7'
+    - '#348899'
 github: true
 opengraph:
   appId: 'https://www.facebook.com/voicesofamerikua'
-layout_spectrum: 0.3165367131587118
 logo: null
 name: Voices of Amerikua
 navigation:
