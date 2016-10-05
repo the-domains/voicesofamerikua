@@ -13,6 +13,8 @@ color:
 github: true
 opengraph:
   appId: 'https://www.facebook.com/voicesofamerikua'
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/d08a2b83-8399-4e30-832a-8319ea8c0804.jpg
 layout_spectrum: 0.3165367131587118
 logo: null
 name: Voices of Amerikua
