@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-05T07:49:27.568Z'
+datePublished: '2016-10-05T07:56:38.948Z'
 sourcePath: _posts/2016-10-05-new-film-documents-real-life-avatar-story.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-05T07:49:27.085Z'
+dateModified: '2016-10-05T07:56:38.494Z'
 title: 'Receiving the Lakota Youth Runners. Standing Rock, North Dakota. '
 publisher: {}
 description: Blog
@@ -24,3 +24,5 @@ Blog
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/314996651e9d9a5bb26c76f92137824ffb154f87.jpg" /><h1>Wixarika take a stand: An Indigenous community gears up to take back their land from Mexican ranchers</h1><p>A contingent of at least 1,000 indigenous Wixárika (Huichol) people in the Western Sierra Madre are gearing up to take back their lands after a legal decision in a decade-long land dispute with neighboring ranchers who have held the land for more than a century. Ranchers who have been in possession...</p></article>
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F183378064&amp;url=https%3A%2F%2Fvimeo.com%2F183378064&amp;image=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F593196754_960.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=vimeo" width="1000" height="563" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
+
+<article style=""><img src="http://i1.wp.com/ancient-futures.com/site/wp-content/uploads/2015/07/voices1.jpg?fit=1200%2C673" /><h1>VIDEO: "Voices of Amerikua" presents Berito Kuwaruwa of U'Wa people, Colombia</h1><p>First Episode of "Voices of Amerikua" featuring different indigenous voices from the americas in defense of their culture, territory and mother nature. Thank you to Uplift Connect, Unity is Change (Unidad es Cambio), World Concious Pact, SokaVision and to Jeniffer Kumiko Hayashi for her amazing work !</p></article>
