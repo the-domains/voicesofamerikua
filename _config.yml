@@ -1,4 +1,3 @@
-layout_spectrum: 0.7896398731924151
 typography_spectrum: 0.5379635969261722
 color:
   brandStrength: 0.09696743532120812
@@ -16,17 +15,18 @@ opengraph:
   appId: 'https://www.facebook.com/voicesofamerikua'
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/d08a2b83-8399-4e30-832a-8319ea8c0804.jpg
+layout_spectrum: 0.7896398731924151
 logo: null
 name: Voices of Amerikua
 navigation:
   - name: Support us
     id: aa1d866f-f80b-4b08-8036-2efbab3a96ba
     type: content
-  - name: About/ Acerca de
-    id: a7ef9d05-3142-4286-94dd-1b99ff306c56
-    type: content
   - name: Media
     id: 2df895e4-9bab-42b7-b439-41e38d77df42
+    type: content
+  - name: About/ Acerca de
+    id: a7ef9d05-3142-4286-94dd-1b99ff306c56
     type: content
   - name: Facebook
     url: 'https://www.facebook.com/voicesofamerikua/?fref=ts'
