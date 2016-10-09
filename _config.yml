@@ -19,11 +19,11 @@ layout_spectrum: 0.1763779259787522
 logo: null
 name: Voices of Amerikua
 navigation:
-  - name: About/ Acerca de
-    id: a7ef9d05-3142-4286-94dd-1b99ff306c56
-    type: content
   - name: Support us
     id: aa1d866f-f80b-4b08-8036-2efbab3a96ba
+    type: content
+  - name: About/ Acerca de
+    id: a7ef9d05-3142-4286-94dd-1b99ff306c56
     type: content
   - name: Media
     id: 2df895e4-9bab-42b7-b439-41e38d77df42
