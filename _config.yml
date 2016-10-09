@@ -1,9 +1,9 @@
-typography_spectrum: 0.5852756018284708
+typography_spectrum: 0.2708470851093494
 color:
-  brandStrength: 0.4569888550322503
-  lightness: 0.6091126501560211
-  saturation: 0.20489230751991272
-  rhythmicContrast: 0.14967030193656683
+  brandStrength: 0.36417794249629104
+  lightness: 0.1674134412968513
+  saturation: 0.8291548620626367
+  rhythmicContrast: 0.46374209192941096
   brandColors:
     - '#962D3E'
     - '#343642'
@@ -15,7 +15,7 @@ opengraph:
   appId: 'https://www.facebook.com/voicesofamerikua'
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/d08a2b83-8399-4e30-832a-8319ea8c0804.jpg
-layout_spectrum: 0.3165367131587118
+layout_spectrum: 0.1763779259787522
 logo: null
 name: Voices of Amerikua
 navigation:
@@ -25,14 +25,15 @@ navigation:
   - name: Media
     id: 2df895e4-9bab-42b7-b439-41e38d77df42
     type: content
-  - name: Blog
-    id: 3a3ead16-47a0-44ae-9437-008ecdd785dc
+  - name: Support us
+    id: aa1d866f-f80b-4b08-8036-2efbab3a96ba
     type: content
+  - name: Facebook
+    url: 'https://www.facebook.com/voicesofamerikua/?fref=ts'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/31e94d5d-e9f4-455f-80f0-aadd7ddef50d.jpg
 title: Voices of Amerikua
+content: []
 description: Voces de Amerikua
-purpose:
-  - type: contact
-    url: 'mailto:voicesofamerikua@gmail.com'
-    label: Contact us
+purpose: []
