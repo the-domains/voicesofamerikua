@@ -1,19 +1,19 @@
 ---
-datePublished: '2016-10-09T00:12:49.786Z'
+datePublished: '2016-10-09T00:15:08.637Z'
 sourcePath: _posts/2016-10-09-voices-of-amerikua.md
 inFeed: true
 isBasedOnUrl: >-
   https://thebookclub.eventcube.io/events/4850/festival-highlights-films-from-amazon-to-artic-and-special-selection-of-shorts-from-wapikoni-mobile-and-winnipeg-film-group
 author: []
 via: {}
-dateModified: '2016-10-09T00:12:49.198Z'
+dateModified: '2016-10-09T00:15:08.194Z'
 title: Voices of Amerikua in Native Spirit Film Festival
 publisher: {}
 description: >-
   We are pleased to announce that our short film on Moretecocha commmunity in
   Ecuador will be shown tomorrow at the Bookclub EC2 as part of the Native
   Spirit Film Festival in London, England.
-starred: false
+starred: true
 _type: MediaObject
 
 ---
