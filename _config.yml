@@ -28,7 +28,7 @@ navigation:
   - name: Support us
     id: aa1d866f-f80b-4b08-8036-2efbab3a96ba
     type: content
-  - name: About/ Acerca de
+  - name: About
     id: a7ef9d05-3142-4286-94dd-1b99ff306c56
     type: content
 favicon: >-
