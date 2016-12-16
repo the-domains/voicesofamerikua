@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://ifnotusthenwho.me/films/ecuadorian-community-fight-off-oil-threats/'
 title: Ecuadorian community fight off oil threats - If Not Us Then Who?
-datePublished: '2016-12-16T23:39:58.281Z'
-dateModified: '2016-12-16T23:39:57.874Z'
+datePublished: '2016-12-16T23:40:00.020Z'
+dateModified: '2016-12-16T23:39:59.674Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-16-ecuadorian-community-fight-off-oil-threats-if-not-us-then.md
