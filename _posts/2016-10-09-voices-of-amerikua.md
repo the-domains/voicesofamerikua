@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-10-09T00:26:16.810Z'
+datePublished: '2017-03-31T16:36:18.649Z'
 sourcePath: _posts/2016-10-09-voices-of-amerikua.md
 inFeed: true
 isBasedOnUrl: >-
@@ -9,7 +9,7 @@ via:
   url: >-
     https://thebookclub.eventcube.io/events/4850/festival-highlights-films-from-amazon-to-artic-and-special-selection-of-shorts-from-wapikoni-mobile-and-winnipeg-film-group
   name: The Book Club
-dateModified: '2016-10-09T00:26:16.344Z'
+dateModified: '2017-03-31T16:36:18.429Z'
 title: Voices of Amerikua in Native Spirit Film Festival
 publisher:
   url: >-
@@ -20,6 +20,7 @@ description: >-
   Ecuador will be shown tomorrow at the Bookclub EC2 as part of the Native
   Spirit Film Festival in London, England.
 starred: true
+datePublishedOriginal: '2016-10-09T00:26:16.810Z'
 _type: MediaObject
 
 ---
