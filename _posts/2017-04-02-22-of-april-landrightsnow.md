@@ -1,21 +1,21 @@
 ---
 inFeed: true
 description: 'http://www.landrightsnow.org/en/get-involved/Get Involved'
-dateModified: '2017-04-02T01:40:17.160Z'
-datePublished: '2017-04-02T01:40:20.627Z'
-title: '22 of April #landrightsnow'
+dateModified: '2017-04-02T01:40:44.034Z'
+datePublished: '2017-04-02T01:40:46.318Z'
+title: '22 of April #LandRightsNow'
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-04-02-22-of-april-landrightsnow.md
 starred: false
 datePublishedOriginal: '2017-04-02T01:40:20.627Z'
-sourcePath: _posts/2017-04-02-22-of-april-landrightsnow.md
 _type: Blurb
 
 ---
 http://www.landrightsnow.org/en/get-involved/Get Involved
 
-## 22 of April \#landrightsnow
+## 22 of April \#LandRightsNow
 
 ## This is a Global Call to Action for communities, organizations, governments, and individuals worldwide to promote and secure the land rights of Indigenous Peoples and local communities.
 
