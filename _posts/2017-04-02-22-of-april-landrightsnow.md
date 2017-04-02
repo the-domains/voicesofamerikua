@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'http://www.landrightsnow.org/en/get-involved/Get Involved'
-dateModified: '2017-04-02T01:40:44.034Z'
-datePublished: '2017-04-02T01:40:46.318Z'
+dateModified: '2017-04-02T01:41:14.792Z'
+datePublished: '2017-04-02T01:41:17.314Z'
 title: '22 of April #LandRightsNow'
 author: []
 publisher: {}
@@ -50,5 +50,7 @@ If you are a citizen, you can:
 Join us in this journey and stay in touch!
 
 For any question, you can contact: [landrightsnow@gmail.com][0]
+
+http://www.landrightsnow.org/es/get-involved/
 
 [0]: mailto:landrightsnow@gmail.com
