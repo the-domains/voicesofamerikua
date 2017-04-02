@@ -34,7 +34,32 @@ navigation:
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/31e94d5d-e9f4-455f-80f0-aadd7ddef50d.jpg
 title: Voices of Amerikua
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ccd8295553eade9a33d5ef7c5070875d465e4074.jpg">
+    src: >-
+      https://s3-us-west-2.amazonaws.com/the-grid-img/p/ccd8295553eade9a33d5ef7c5070875d465e4074.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://s3-us-west-2.amazonaws.com'
+        name: .s3-us-west-2.amazonaws.com
+        favicon: null
+        domain: s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 description: Indigenous media alliance and documentary series
 purpose:
   - type: internal
