@@ -52,7 +52,6 @@ content:
         domain: s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
@@ -65,6 +64,3 @@ purpose:
   - type: internal
     label: Support
     item: aa1d866f-f80b-4b08-8036-2efbab3a96ba
-  - type: external
-    url: 'http://www.landrightsnow.org/en/get-involved/'
-    label: 'http://www.landrightsnow.org/en/get-involved/'
