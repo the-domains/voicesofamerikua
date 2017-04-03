@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Working together we can support the existing struggles of local communities
   and Indigenous Peoples in different parts of the world.
-dateModified: '2017-04-03T18:36:26.582Z'
-datePublished: '2017-04-03T18:36:28.648Z'
+dateModified: '2017-04-03T18:37:05.100Z'
+datePublished: '2017-04-03T18:37:07.097Z'
 title: '22 of April #LandRightsNow'
 author: []
 publisher: {}
@@ -54,5 +54,7 @@ If you are a citizen, you can:
 Join us in this journey and stay in touch!
 
 For any question, you can contact: [landrightsnow@gmail.com][0]
+
+http://www.landrightsnow.org/en/get-involved/
 
 [0]: mailto:landrightsnow@gmail.com
