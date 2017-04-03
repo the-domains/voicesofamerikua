@@ -21,8 +21,8 @@ description: Voices of Amerikua featured in “If Not Us Then Who”
 inLanguage: en
 app_links: []
 title: Ecuadorian community fight off oil threats - If Not Us Then Who?
-datePublished: '2017-04-03T17:29:36.746Z'
-dateModified: '2017-04-03T17:29:36.248Z'
+datePublished: '2017-04-03T17:34:45.528Z'
+dateModified: '2017-04-03T17:34:45.243Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-16-ecuadorian-community-fight-off-oil-threats-if-not-us-then.md
