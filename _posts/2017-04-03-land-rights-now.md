@@ -16,13 +16,13 @@ description: >-
 app_links: []
 isBasedOnUrl: 'http://www.landrightsnow.org/'
 title: Land Rights Now
-datePublished: '2017-04-03T17:34:33.054Z'
-dateModified: '2017-04-03T17:33:32.367Z'
-datePublishedOriginal: '2017-04-03T17:34:33.054Z'
+datePublished: '2017-04-03T17:34:45.557Z'
+dateModified: '2017-04-03T17:34:45.243Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-04-03-land-rights-now.md
+starred: false
+datePublishedOriginal: '2017-04-03T17:34:33.054Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
