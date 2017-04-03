@@ -19,6 +19,9 @@ opengraph:
 logo: null
 name: Voices of Amerikua
 navigation:
+  - name: About
+    id: a7ef9d05-3142-4286-94dd-1b99ff306c56
+    type: content
   - name: Facebook
     url: 'https://www.facebook.com/voicesofamerikua/?fref=ts'
     type: external
@@ -27,9 +30,6 @@ navigation:
     type: content
   - name: Support us
     id: aa1d866f-f80b-4b08-8036-2efbab3a96ba
-    type: content
-  - name: About
-    id: a7ef9d05-3142-4286-94dd-1b99ff306c56
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/31e94d5d-e9f4-455f-80f0-aadd7ddef50d.jpg
