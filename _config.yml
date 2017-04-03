@@ -31,8 +31,7 @@ navigation:
   - name: Support us
     id: aa1d866f-f80b-4b08-8036-2efbab3a96ba
     type: content
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/31e94d5d-e9f4-455f-80f0-aadd7ddef50d.jpg
+favicon: null
 title: Voices of Amerikua
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
@@ -69,4 +68,4 @@ purpose:
   - type: internal
     label: '#LandRightsNow'
     item: 10006a8f-efc1-4545-ada2-1e4d6701a864
-url: 'https://www.voicesofamerikua.net'
+url: 'http://www.voicesofamerikua.net'
