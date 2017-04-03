@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'http://www.landrightsnow.org/en/get-involved/Get Involved'
-dateModified: '2017-04-03T17:29:36.248Z'
-datePublished: '2017-04-03T17:29:36.822Z'
+dateModified: '2017-04-03T17:36:11.775Z'
+datePublished: '2017-04-03T17:36:13.249Z'
 title: '22 of April #LandRightsNow'
 author: []
 publisher: {}
@@ -19,7 +19,7 @@ http://www.landrightsnow.org/en/get-involved/Get Involved
 
 ## This is a Global Call to Action for communities, organizations, governments, and individuals worldwide to promote and secure the land rights of Indigenous Peoples and local communities.
 
-We are seeking champions that can lead by example in the global fight for land rights.
+## We are seeking champions that can lead by example in the global fight for land rights.
 
 Working together we can support the existing struggles of local communities and Indigenous Peoples in different parts of the world.
 
@@ -50,7 +50,5 @@ If you are a citizen, you can:
 Join us in this journey and stay in touch!
 
 For any question, you can contact: [landrightsnow@gmail.com][0]
-
-http://www.landrightsnow.org/es/get-involved/
 
 [0]: mailto:landrightsnow@gmail.com
