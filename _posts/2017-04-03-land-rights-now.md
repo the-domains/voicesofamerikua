@@ -14,13 +14,13 @@ description: >-
 app_links: []
 isBasedOnUrl: 'http://www.landrightsnow.org/en/get-involved/'
 title: Land Rights Now
-datePublished: '2017-04-03T18:20:39.814Z'
-dateModified: '2017-04-03T18:19:52.060Z'
-datePublishedOriginal: '2017-04-03T18:20:39.814Z'
+datePublished: '2017-04-03T18:21:10.734Z'
+dateModified: '2017-04-03T18:21:10.514Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-04-03-land-rights-now.md
+starred: false
+datePublishedOriginal: '2017-04-03T18:20:39.814Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
