@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-04-03T17:34:45.550Z'
+datePublished: '2017-04-03T18:21:10.737Z'
 sourcePath: _posts/2016-10-09-voices-of-amerikua.md
 inFeed: true
 isBasedOnUrl: >-
@@ -9,7 +9,7 @@ via:
   url: >-
     https://thebookclub.eventcube.io/events/4850/festival-highlights-films-from-amazon-to-artic-and-special-selection-of-shorts-from-wapikoni-mobile-and-winnipeg-film-group
   name: The Book Club
-dateModified: '2017-04-03T17:34:45.243Z'
+dateModified: '2017-04-03T18:21:10.514Z'
 title: Voices of Amerikua in Native Spirit Film Festival
 publisher:
   url: >-
