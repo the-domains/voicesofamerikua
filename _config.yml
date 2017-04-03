@@ -59,7 +59,9 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-description: Indigenous media alliance   and mutimedia channel
+description: >-
+  Sharing the voice of indigenous people working to protect their culture,
+  territories and Mother Nature in North, Central and South America.
 purpose:
   - type: internal
     label: Support
