@@ -1,16 +1,18 @@
 ---
 inFeed: true
 description: 'http://www.landrightsnow.org/en/get-involved/Get Involved'
-dateModified: '2017-04-03T17:36:11.775Z'
-datePublished: '2017-04-03T17:36:13.249Z'
+dateModified: '2017-04-03T18:27:15.834Z'
+datePublished: '2017-04-03T18:27:17.268Z'
 title: '22 of April #LandRightsNow'
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2017-04-02-22-of-april-landrightsnow.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-04-02T01:40:20.627Z'
-_type: Blurb
+url: 22-of-april-landrightsnow/index.html
+_type: Article
 
 ---
 http://www.landrightsnow.org/en/get-involved/Get Involved
