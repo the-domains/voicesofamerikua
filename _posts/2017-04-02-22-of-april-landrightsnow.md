@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Working together we can support the existing struggles of local communities
   and Indigenous Peoples in different parts of the world.
-dateModified: '2017-04-03T18:33:58.634Z'
-datePublished: '2017-04-03T18:34:00.665Z'
+dateModified: '2017-04-03T18:36:26.582Z'
+datePublished: '2017-04-03T18:36:28.648Z'
 title: '22 of April #LandRightsNow'
 author: []
 publisher: {}
@@ -17,6 +17,8 @@ url: 22-of-april-landrightsnow/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/481816e9-dc9b-45b3-8e36-ba03872dbbd9.jpg)
+
 ## 22 of April \#LandRightsNow
 
 ## This is a Global Call to Action for communities, organizations, governments, and individuals worldwide to promote and secure the land rights of Indigenous Peoples and local communities.
