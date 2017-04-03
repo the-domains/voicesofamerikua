@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'http://www.landrightsnow.org/en/get-involved/Get Involved'
-dateModified: '2017-04-02T01:41:14.792Z'
-datePublished: '2017-04-02T01:41:17.314Z'
+dateModified: '2017-04-03T17:29:36.248Z'
+datePublished: '2017-04-03T17:29:36.822Z'
 title: '22 of April #LandRightsNow'
 author: []
 publisher: {}
