@@ -15,13 +15,13 @@ description: >-
 title: ''
 app_links: []
 isBasedOnUrl: 'https://www.facebook.com/AWAKEaDreamFromStandingRock/videos/1907606812810173/'
-datePublished: '2017-04-04T03:20:44.284Z'
+datePublished: '2017-04-04T03:20:44.287Z'
 dateModified: '2017-04-04T03:20:43.721Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-04-04-in-2016-standing-rock-north-dakota-became-one-of-the-most.md
 starred: false
-datePublishedOriginal: '2017-04-04T03:18:09.723Z'
+datePublishedOriginal: '2017-04-04T03:17:59.677Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
