@@ -1,5 +1,5 @@
 ---
-inFeed: true
+inFeed: false
 description: >-
   Join Voices of Amerikua an emerging media alliance and web platform dedicated
   to sharing the voices of indigenous people. We are working to protect the
@@ -9,16 +9,18 @@ description: >-
   "The Land of the Four Winds.' Additionally, it is another term for what some
   First Nation communities have called 'Turtle Island', and what the indigenous
   Kunas tribe of Panama call 'Abya Ayala'.
-dateModified: '2017-04-04T02:58:32.728Z'
-datePublished: '2017-04-04T02:58:34.476Z'
+dateModified: '2017-04-04T02:58:51.643Z'
+datePublished: '2017-04-04T02:58:53.093Z'
 title: ''
 author: []
 publisher: {}
 via: {}
 sourcePath: >-
   _posts/2017-04-04-join-voices-of-amerikua-an-emerging-media-alliance-and-web-p.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-04-04T02:53:18.337Z'
+url: join-voices-of-amerikua-an-emerging-media-alliance-and-web-p/index.html
 _type: Blurb
 
 ---
