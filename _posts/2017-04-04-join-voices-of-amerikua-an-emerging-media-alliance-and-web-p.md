@@ -6,11 +6,11 @@ description: >-
   culture and territories of First Nation peoples in North, Central and South
   America. The term 'Amerikua' obtains its origin from the Mayan language of the
   Yucatan Peninsula , a term used for the continent America, which refers to
-  "The Land of the Four Winds.' Additionally, it is another term for what some
-  First Nation communities have called 'Turtle Island', and what the indigenous
-  Kunas tribe of Panama call 'Abya Ayala'.
-dateModified: '2017-04-04T04:59:47.910Z'
-datePublished: '2017-04-04T04:59:49.795Z'
+  “The Land of the Four Winds”. It is another term for what some First Nation
+  communities have called 'Turtle Island', and what the Kuna tribe of Panama
+  call 'Abya Ayala'.
+dateModified: '2017-04-05T00:10:35.430Z'
+datePublished: '2017-04-05T00:10:37.199Z'
 title: ''
 author: []
 publisher: {}
@@ -24,9 +24,9 @@ url: join-voices-of-amerikua-an-emerging-media-alliance-and-web-p/index.html
 _type: Blurb
 
 ---
-Join **[Voices of Amerikua][0]** an emerging media alliance and web platform dedicated to sharing the voices of indigenous people. We are working to protect the culture and territories of First Nation peoples in North, Central and South America. The term 'Amerikua' obtains its origin from the Mayan language of the Yucatan Peninsula , a term used for the continent America, which refers to "The Land of the Four Winds.' Additionally, it is another term for what some First Nation communities have called 'Turtle Island', and what the indigenous Kunas tribe of Panama call 'Abya Ayala'.
+Join **[Voices of Amerikua][0]** an emerging media alliance and web platform dedicated to sharing the voices of indigenous people. We are working to protect the culture and territories of First Nation peoples in North, Central and South America. The term 'Amerikua' obtains its origin from the Mayan language of the Yucatan Peninsula , a term used for the continent America, which refers to "The Land of the Four Winds". It is another term for what some First Nation communities have called 'Turtle Island', and what the Kuna tribe of Panama call 'Abya Ayala'.
 
-The Standing Rock Movement has been a pivotal moment in unifying indigenous and non-indigenous water and life protectors across the North and South American continents, not to mention across the planet. Throughout North, Central, and South America, many communities, who are indigenous, impoverished and persecuted, suffer similar threats to their natural resources and abuses towards their dignity and basic human rights. Assassination of indigenous environmental leaders has become commonplace in Latin America, as companies and governments alike, persecute those protecting their environment, which in many cases is the only form of sustenance these communities have for their survival. We have both a responsibility and an enormous opportunity to build community through unity that will transcend borders, walls, languages, and that can help build bridges that will allow us to work together and support similar issues that affect us all.
+Undoubtedly Standing Rock Movement has been a pivotal moment in unifying indigenous and non-indigenous water and life protectors across the North and South American continents, not to mention across the planet. Throughout North, Central, and South America, many communities, who are indigenous, impoverished and persecuted, suffer similar threats to their natural resources and abuses towards their dignity and basic human rights. Assassination of indigenous environmental leaders has become commonplace in Latin America, as companies and governments alike, persecute those protecting their environment, which in many cases is the only form of sustenance these communities have for their survival. We have both a responsibility and an enormous opportunity to build community through unity that will transcend borders, walls, languages, and that can help build bridges that will allow us to work together and support similar issues that affect us all.
 
 For this reason **[Voices of Amerikua][0]** seeks to partner with filmmakers, activists, media producers and indigenous communities throughout the world who want to help support these communities by creating, curating, sharing and collaborating in producing original media pieces that share the stories of these communities standing on the front lines of protecting our environment and their traditional cultures and ways of life.
 
