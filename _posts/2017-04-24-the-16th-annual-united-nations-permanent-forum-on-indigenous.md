@@ -33,8 +33,8 @@ title: ''
 app_links: []
 isBasedOnUrl: >-
   https://www.facebook.com/DigitalSmokeSignals/videos/10156056424454746/?pnref=story
-datePublished: '2017-04-25T01:33:44.176Z'
-dateModified: '2017-04-25T01:33:43.941Z'
+datePublished: '2017-04-25T01:35:05.442Z'
+dateModified: '2017-04-25T01:35:04.112Z'
 via: {}
 inFeed: true
 sourcePath: >-
