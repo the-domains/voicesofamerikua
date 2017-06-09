@@ -4,8 +4,8 @@ description: >-
   Voices of Amerikua is a collaborative multimedia project and online platform
   dedicated to promoting efforts to protect the culture and rights of indigenous
   peoples and Mother Nature throughout North, Central and South America.
-dateModified: '2017-06-09T21:23:30.576Z'
-datePublished: '2017-06-09T21:23:31.165Z'
+dateModified: '2017-06-09T21:23:43.678Z'
+datePublished: '2017-06-09T21:23:44.474Z'
 title: Join the Movement here
 author: []
 publisher: {}
@@ -26,6 +26,7 @@ Our mission is to edit, translate and produce original media in partnership spec
 
 ## Join the Movement [here][0]
 
-## Support Us here
+## Support Us [here][1]
 
 [0]: http://www.voicesofamerikua.net/join-voices-of-amerikua-an-emerging-media-alliance-and-web-p
+[1]: http://www.voicesofamerikua.net/support-us
