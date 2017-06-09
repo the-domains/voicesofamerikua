@@ -4,8 +4,8 @@ description: >-
   Join Voices of Amerikua a collaborative multimedia project and online platform
   dedicated to promoting efforts to protect the culture and rights of indigenous
   peoples and Mother Nature throughout North, Central and South America.
-dateModified: '2017-06-09T23:45:31.229Z'
-datePublished: '2017-06-09T23:45:32.031Z'
+dateModified: '2017-06-09T23:45:59.117Z'
+datePublished: '2017-06-09T23:46:00.075Z'
 title: ''
 author: []
 publisher: {}
@@ -50,5 +50,7 @@ Hylo is new kind of social network that helps real communities create, together.
 **CONTACT US**
 
 voicesofamerikua@gmail.com
+
+ESPAÑOL
 
 [0]: https://www.hylo.com/c/voices-of-amerikua/join/P1jyQUDQFnom0RNHCJvM
