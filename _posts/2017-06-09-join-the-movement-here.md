@@ -1,9 +1,12 @@
 ---
 inFeed: true
-description: THE MISSION
-dateModified: '2017-06-09T23:47:29.891Z'
-datePublished: '2017-06-09T23:47:31.110Z'
-title: Join the Movement here
+description: >-
+  Voices of Amerikua is a collaborative multimedia project and online platform
+  dedicated to promoting efforts to protect the culture and rights of indigenous
+  peoples and Mother Nature throughout North, Central and South America.
+dateModified: '2017-06-09T23:53:02.384Z'
+datePublished: '2017-06-09T23:53:03.107Z'
+title: THE MISSION
 author: []
 publisher: {}
 via: {}
@@ -15,7 +18,7 @@ url: about/index.html
 _type: Article
 
 ---
-THE MISSION
+# THE MISSION
 
 **Voices of Amerikua** is a collaborative multimedia project and online platform dedicated to promoting efforts to protect the culture and rights of indigenous peoples and Mother Nature throughout North, Central and South America.
 
