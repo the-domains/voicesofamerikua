@@ -1,16 +1,18 @@
 ---
 inFeed: true
 description: UNETE A VOCES DE AMERIKUA
-dateModified: '2017-06-10T00:18:04.965Z'
-datePublished: '2017-06-10T00:18:05.544Z'
+dateModified: '2017-06-10T00:18:11.025Z'
+datePublished: '2017-06-10T00:18:11.578Z'
 title: ''
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-06-10-unete-a-voces-de-amerikua.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-06-10T00:18:05.544Z'
-sourcePath: _posts/2017-06-10-unete-a-voces-de-amerikua.md
-_type: Blurb
+url: unete-a-voces-de-amerikua/index.html
+_type: Article
 
 ---
 **UNETE A VOCES DE AMERIKUA**
