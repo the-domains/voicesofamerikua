@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: "Join Voices of Amerikua\_a collaborative multimedia project and online platform dedicated to promoting efforts to protect the culture and rights of indigenous peoples and Mother Nature throughout North, Central and South America."
-dateModified: '2017-06-10T00:02:09.723Z'
-datePublished: '2017-06-10T00:02:10.688Z'
+dateModified: '2017-06-10T00:04:18.691Z'
+datePublished: '2017-06-10T00:04:19.725Z'
 title: ''
 author: []
 publisher: {}
