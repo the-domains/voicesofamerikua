@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: The Roots Awaken
-dateModified: '2017-04-04T03:31:46.743Z'
-datePublished: '2017-04-04T03:31:48.011Z'
+dateModified: '2017-06-10T00:20:12.328Z'
+datePublished: '2017-06-10T00:20:12.539Z'
 title: The Roots Awaken | Official Trailer (HD) | Las Raíces Despiertan
 author:
   - name: The Roots Awaken
@@ -15,10 +15,10 @@ publisher:
   domain: www.youtube.com
 via: {}
 isBasedOnUrl: 'https://www.youtube.com/watch?v=YnM6ftqAQD8'
-starred: false
-datePublishedOriginal: '2017-04-04T03:31:48.011Z'
 sourcePath: >-
   _posts/2017-04-04-the-roots-awaken-or-official-trailer-hd-or-las-raices-despie.md
+starred: false
+datePublishedOriginal: '2017-04-04T03:31:48.011Z'
 _type: MediaObject
 
 ---
