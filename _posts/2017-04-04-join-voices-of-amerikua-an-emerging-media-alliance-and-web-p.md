@@ -1,11 +1,8 @@
 ---
 inFeed: false
-description: >-
-  Join Voices of Amerikua a collaborative multimedia project and online platform
-  dedicated to promoting efforts to protect the culture and rights of indigenous
-  peoples and Mother Nature throughout North, Central and South America.
-dateModified: '2017-06-09T23:45:59.117Z'
-datePublished: '2017-06-09T23:46:00.075Z'
+description: "Join Voices of Amerikua\_a collaborative multimedia project and online platform dedicated to promoting efforts to protect the culture and rights of indigenous peoples and Mother Nature throughout North, Central and South America."
+dateModified: '2017-06-10T00:02:09.723Z'
+datePublished: '2017-06-10T00:02:10.688Z'
 title: ''
 author: []
 publisher: {}
@@ -37,20 +34,9 @@ If you would like to partner with us and share your story, we can offer you or y
 **WHAT ARE WE SEEKING?**
 
 * Original footage that can be edited and shared regarding messages from indigenous communities across the continent
-
 * Support in editing original material
 * Support in translating original material: English-Spanish-Portuguese and other native indigenous tongues
 * Wordpress webmasters for English, Spanish and Portuguese website
 * Social Media Team and allies English, Spanish, Portuguese languages
 
-**JOIN US IN HYLO**
-
-Hylo is new kind of social network that helps real communities create, together. Join our Hylo community [here][0]
-
-**CONTACT US**
-
-voicesofamerikua@gmail.com
-
 ESPAÑOL
-
-[0]: https://www.hylo.com/c/voices-of-amerikua/join/P1jyQUDQFnom0RNHCJvM
