@@ -4,8 +4,8 @@ description: >-
   Join Voices of Amerikua a collaborative multimedia project and online platform
   dedicated to promoting efforts to protect the culture and rights of indigenous
   peoples and Mother Nature throughout North, Central and South America.
-dateModified: '2017-06-10T00:14:35.809Z'
-datePublished: '2017-06-10T00:14:36.492Z'
+dateModified: '2017-06-10T00:20:12.328Z'
+datePublished: '2017-06-10T00:20:12.542Z'
 title: ''
 author: []
 publisher: {}
