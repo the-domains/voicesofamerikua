@@ -1,17 +1,17 @@
 ---
-datePublished: '2017-04-24T21:38:52.500Z'
+datePublished: '2017-06-10T00:00:11.160Z'
 sourcePath: _posts/2016-10-05-about-acerca-de.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-04-24T21:38:50.911Z'
+dateModified: '2017-06-10T00:00:10.013Z'
 title: About
 publisher: {}
 description: >-
-  Voices of Amerikua is a media alliance and documentary series dedicated to
-  sharing the voice of indigenous people working to protect their culture,
-  territories, and Mother Nature in North, Central and South America.
+  Voices of Amerikua is a collaborative multimedia project and online platform
+  dedicated to promoting efforts to protect the culture and rights of indigenous
+  peoples and Mother Nature throughout North, Central and South America.
 starred: false
 datePublishedOriginal: '2016-10-06T01:26:35.470Z'
 url: about-acerca-de/index.html
@@ -22,6 +22,6 @@ _type: Blurb
 
 # About
 
-Voices of Amerikua is a media alliance and documentary series dedicated to sharing the voice of indigenous people working to protect their culture, territories, and Mother Nature in North, Central and South America.
+**Voices of Amerikua** is a collaborative multimedia project and online platform dedicated to promoting efforts to protect the culture and rights of indigenous peoples and Mother Nature throughout North, Central and South America.
 
-Amerikua is a mayan language term for the American continent which means "the land of the four winds'.
+The term 'Amerikua' obtains its origin from the Mayan language of the Yucatan Peninsula, a term used for the continent America, which refers to "The Land of the Four Winds". It is another term for what some First Nation communities have called 'Turtle Island', and what the Kuna tribe of Panama call 'Abya Ayala'.
