@@ -4,8 +4,8 @@ description: >-
   Voices of Amerikua is a collaborative multimedia project and online platform
   dedicated to promoting efforts to protect the culture and rights of indigenous
   peoples and Mother Nature throughout North, Central and South America.
-dateModified: '2017-06-11T20:42:03.462Z'
-datePublished: '2017-06-11T20:42:04.248Z'
+dateModified: '2017-06-11T20:43:20.029Z'
+datePublished: '2017-06-11T20:43:20.705Z'
 title: ABOUT US
 author: []
 publisher: {}
@@ -18,7 +18,7 @@ url: about/index.html
 _type: Article
 
 ---
-## ABOUT US
+# ABOUT US
 
 **Voices of Amerikua** is a collaborative multimedia project and online platform dedicated to promoting efforts to protect the culture and rights of indigenous peoples and Mother Nature throughout North, Central and South America.
 
