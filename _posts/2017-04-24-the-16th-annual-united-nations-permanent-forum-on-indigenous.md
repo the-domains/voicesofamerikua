@@ -33,10 +33,10 @@ description: >-
   today! Thanks to Mike Gamms and Joann Mae Spotted Bear for helping inspire
   many to stand together with the Indigenous Flood - United Nations : NYC event!
   Thank you to all our water protectors who contributed a video to this piece.
-title: 'Indigenous Flood is Coming ! - April 24, 2017'
+title: BLOG
 app_links: []
-datePublished: '2017-06-09T03:51:19.555Z'
-dateModified: '2017-06-09T03:51:18.914Z'
+datePublished: '2017-06-11T20:37:27.304Z'
+dateModified: '2017-06-11T20:37:26.544Z'
 via: {}
 inFeed: true
 sourcePath: >-
@@ -49,6 +49,8 @@ _type: Photograph
 _context: 'http://schema.org'
 
 ---
+# BLOG
+
 ## Indigenous Flood is Coming ! - April 24, 2017
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxdkM1qwzAQhF_FCJKjfxLbBSdKKZS8gHsviryWRGStWclR8_ZV7ZwKexhmvxnYPZuRxASZJ8mZDmH2XVHEGPNRSLgh3nOJUzHbRRnni4cZAPNZz--aYOQrvzt-7A7XNP9Tyfo0ygRh-wnv0BvlhPXJXVv-RFVWTVs2bX2o66Z-q9vk7b3G-B3gJ_ByH80QNE8MyzbJVq3BKB04O1YNy3x4WuDshjQAdQ4dnPABNFqMnTbDAC4xktBa4xRnDlm2nrwFOEt9wib4i4TzsyBw8slZoAVei-tibS8JwL3sy7nYvnb5Bcq6bQo" height="308" style=""></iframe>
